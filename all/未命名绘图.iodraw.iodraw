@@ -7,7 +7,7 @@
         <mxCell id="ZVKubpXq-mCP3t45aayR-1" value="科主任" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZVKubpXq-mCP3t45aayR-16">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-7" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-1" target="ZVKubpXq-mCP3t45aayR-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="100" y="150" as="sourcePoint" />
             <mxPoint x="170" y="200" as="targetPoint" />
@@ -36,7 +36,7 @@
           <mxGeometry x="290" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-16" value="科主任" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="210" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-17" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-16" target="ZVKubpXq-mCP3t45aayR-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
