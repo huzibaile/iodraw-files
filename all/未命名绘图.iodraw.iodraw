@@ -55,7 +55,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-15">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-15" target="ZVKubpXq-mCP3t45aayR-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
             <mxPoint x="510" y="140" as="targetPoint" />
@@ -67,7 +67,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-24" value="人员类别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="510" y="100" width="80" height="80" as="geometry" />
+          <mxGeometry x="510" y="140" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ZVKubpXq-mCP3t45aayR-25" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="180" as="sourcePoint" />
+            <mxPoint x="640" y="130" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
