@@ -6,11 +6,16 @@
         <mxCell id="1" parent="0" />
         <mxCell id="ZVKubpXq-mCP3t45aayR-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="150" as="targetPoint" />
-            <mxPoint x="100" y="144.75" as="sourcePoint" />
+            <mxPoint x="360" y="152.63" as="targetPoint" />
+            <mxPoint x="100" y="147.38" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="331" y="145" />
+              <mxPoint x="331" y="147.63" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZVKubpXq-mCP3t45aayR-11" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVKubpXq-mCP3t45aayR-5">
+          <mxGeometry x="-0.1076" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-1" value="科主任/&lt;div&gt;行政后勤&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
