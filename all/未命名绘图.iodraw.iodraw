@@ -9,12 +9,12 @@
             <mxPoint x="330" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-1" value="科主任/行政后勤" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-1">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="410" as="sourcePoint" />
+            <mxPoint x="220" y="140" as="sourcePoint" />
             <mxPoint x="440" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
