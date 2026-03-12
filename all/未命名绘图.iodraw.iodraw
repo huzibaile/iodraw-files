@@ -83,7 +83,7 @@
         <mxCell id="ZVKubpXq-mCP3t45aayR-26" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="300" as="sourcePoint" />
-            <mxPoint x="670" y="200" as="targetPoint" />
+            <mxPoint x="640" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-29" value="护士" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVKubpXq-mCP3t45aayR-26">
@@ -94,7 +94,7 @@
         <mxCell id="ZVKubpXq-mCP3t45aayR-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
-            <mxPoint x="660" y="240" as="targetPoint" />
+            <mxPoint x="640" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-30" value="其他" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVKubpXq-mCP3t45aayR-27">
