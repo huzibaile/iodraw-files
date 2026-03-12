@@ -49,7 +49,7 @@
             <mxPoint x="250" y="20" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-9" value="后勤主任" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVKubpXq-mCP3t45aayR-8">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-9" value="主任" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVKubpXq-mCP3t45aayR-8">
           <mxGeometry x="0.2396" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
