@@ -35,7 +35,7 @@
         <mxCell id="ZVKubpXq-mCP3t45aayR-15" value="是否后勤" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-16" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-16" value="科主任" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
