@@ -172,7 +172,7 @@
             <mxPoint x="960" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-52" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-52" value="其他分管院长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
