@@ -99,7 +99,7 @@
         <mxCell id="ZVKubpXq-mCP3t45aayR-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZVKubpXq-mCP3t45aayR-24">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="310" as="sourcePoint" />
-            <mxPoint x="430" y="470" as="targetPoint" />
+            <mxPoint x="440" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZVKubpXq-mCP3t45aayR-30" value="其他" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ZVKubpXq-mCP3t45aayR-27">
@@ -166,9 +166,9 @@
             <mxPoint x="440" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-51" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-51" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="ZVKubpXq-mCP3t45aayR-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="910" y="195" as="sourcePoint" />
+            <mxPoint x="780" y="180" as="sourcePoint" />
             <mxPoint x="960" y="145" as="targetPoint" />
           </mxGeometry>
         </mxCell>
