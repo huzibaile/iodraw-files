@@ -66,11 +66,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-23" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="240" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-24" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="200" width="80" height="80" as="geometry" />
+        <mxCell id="ZVKubpXq-mCP3t45aayR-24" value="人员类别" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="100" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
