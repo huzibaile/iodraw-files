@@ -102,7 +102,7 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZVKubpXq-mCP3t45aayR-31" value="后勤分管院长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ZVKubpXq-mCP3t45aayR-31" value="医生分管院长" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="580" y="220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
